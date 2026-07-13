@@ -67,11 +67,11 @@ You can also click the buttons directly using your mouse.
 ```
 Drum_Kit/
 │
-├── index.html          # Main HTML file
-├── styles.css          # Styling and animations
-├── index.js            # JavaScript functionality
+├── index.html         
+├── styles.css          
+├── index.js           
 │
-├── sounds/             # Audio files
+├── sounds/            
 │   ├── crash.mp3
 │   ├── kick-bass.mp3
 │   ├── snare.mp3
