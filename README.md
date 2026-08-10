@@ -92,7 +92,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Iyazuddin/Drum_Kit.git
+git clone https://github.com/Yourname/Drum_Kit.git
 ```
 
 ### 2. Navigate to the project directory
